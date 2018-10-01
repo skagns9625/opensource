@@ -16,7 +16,7 @@ public class Scan {
 			if(sDan != null) {
 				iDan = Integer.valueOf(sDan);
 				for(int i = 1; i <= 9; i++) {
-					System.out.print(iDan*i + "\t123");
+					System.out.print(iDan*i + "\t123123");
 				}
 			}
 		} catch(Exception e){
